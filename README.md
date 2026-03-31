@@ -1,60 +1,58 @@
-
-# 📊 Data Analyst Portfolio – K Rajeshwari
+# 👩‍💻 K Rajeshwari – Data Analyst Portfolio
 
 ---
 
 ## 📖 About Me
-Aspiring Data Analyst with skills in data cleaning, analysis, visualization, and storytelling.
+Aspiring Data Analyst skilled in data cleaning, analysis, visualization, and storytelling.
 
 ---
 
 ## 🚀 Projects
 
 ### 🔹 Task 1: Data Cleaning
-- Cleaned and prepared dataset using Python
-- Tools: Pandas, Jupyter
-
-👉 [View Task 1](./Task1)
+- Cleaned dataset using Python & Pandas  
+👉 [View Project](./Task1)
 
 ---
 
 ### 🔹 Task 2: Exploratory Data Analysis
-- Performed data analysis and extracted insights
-- Tools: Python, Pandas
-
-👉 [View Task 2](./Task2)
+- Performed data analysis and extracted insights  
+👉 [View Project](./Task2)
 
 ---
 
 ### 🔹 Task 3: Dashboard Creation
-- Built interactive dashboard using Excel
-- Tools: Excel, Pivot Tables, Charts, Slicers
-
-👉 [View Task 3](./Task3)
+- Built interactive dashboard using Excel  
+👉 [View Project](./Task3)
 
 ---
 
-### 🔹 Task 4: Data Storytelling
-- Converted insights into business story
-- Performed hypothesis testing
-
-👉 [View Task 4](./Task4)
+### 🔹 Task 4: Data Storytelling & Hypothesis Testing
+- Converted insights into business story  
+👉 [View Project](./Task4)
 
 ---
 
 ## 🛠️ Skills
-- Python
-- Pandas
-- Excel
-- Data Visualization
-- Dashboarding
+- Python  
+- Pandas  
+- Excel  
+- Data Visualization  
+- Dashboarding  
 
 ---
 
-## 📌 Outcome
-This portfolio demonstrates end-to-end data analysis skills from data cleaning to business insights.
+## 📊 Dashboard Preview
+![Dashboard](./Task3/dashboard.png)
 
 ---
 
-## 🔗 Author
-K Rajeshwari
+## 🔗 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/rajeshwari-kommula-20355a350/)
+
+---
+
+## 🎯 Outcome
+This portfolio showcases end-to-end data analytics workflow from raw data to insights.
+
+---
